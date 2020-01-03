@@ -9,7 +9,7 @@ int maxDepth = 3;
 int turnNumber = 1; //the turn number for black 
 
 void setup() {
-  size(400, 400);
+  size(600, 600);
   for (int i = 0; i< spaces.length; i++) //initialise spaces
   {
     spaces[i] = new Space(i);
