@@ -1,4 +1,4 @@
-# Satranç AI
+# Chessus Satranç AI
 Kendini satrançta geliştirmek için genetik algoritma kullanan bir sinir ağ sistemidir.
 
 ## Prensip
